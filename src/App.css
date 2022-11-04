@@ -1,3 +1,27 @@
+.background{
+  height: 100vh;
+  background-color: black;
+}
+
+.container-bg{
+  background-color: white;
+  height: 100vh;
+  padding: 0;
+}
+
+.header{
+  background-color: #03fc8c;
+}
+
+/* .content {
+  display: flex;
+  justify-content: center;
+} */
+
+.custom-step{
+  color: #03fc8c;
+}
+
 .App {
   text-align: center;
 }
